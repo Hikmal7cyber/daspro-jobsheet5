@@ -9,7 +9,7 @@ public class LatihanIndividu16 {
 
     if (age < 0) 
     {
-      System.out.println("Error: Usia harus berupa angka positif.");
+      System.out.println("Tidak memenuhi: Usia harus berupa angka positif.");
     } 
     else if (age <= 12) 
     {
